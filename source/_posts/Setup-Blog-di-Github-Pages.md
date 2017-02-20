@@ -3,6 +3,7 @@ title: Setup Blog di Github Pages
 date: 2017-02-18 01:09:31
 tags: [blog, github]
 categories: uncategorized
+banner: https://i.ytimg.com/vi/2MsN8gpT6jY/maxresdefault.jpg
 ---
 
 Langkah mudah setup blog pribadi di github pages. Blog engine yang digunakan adalah [Hexo](https://hexo.io), walaupun pada dasarnya github pages bisa digunakan untuk serve static website.
